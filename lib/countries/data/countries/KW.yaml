@@ -27,6 +27,7 @@ KW:
   - 2
   national_number_lengths:
   - 7
+  - 8
   national_prefix: None
   number: '414'
   region: Asia
